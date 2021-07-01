@@ -1,2 +1,2 @@
 # leetcode-solutions-in-javascript
-A collection of Leetcode problems solved in JavaScript
+A collection of Leetcode problems solved in JavaScript.
